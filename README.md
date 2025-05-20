@@ -26,7 +26,7 @@ I'm a passionate developer who loves technology, continuous learning, and buildi
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-oliveira-santos-neto-249282209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-oliveira-santos-neto-249282209)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao_osneto@hotmail.com)
 
 ## 🇧🇷 Português
@@ -52,6 +52,6 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por cria
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-oliveira-santos-neto-249282209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-oliveira-santos-neto-249282209)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao_osneto@hotmail.com)
 
