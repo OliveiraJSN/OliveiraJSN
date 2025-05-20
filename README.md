@@ -21,15 +21,13 @@ I'm a passionate developer who loves technology, continuous learning, and buildi
 
 ### 📈 GitHub Stats
 
-![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoOliveira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveira&layout=compact&theme=radical)
+![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliveiraJSN&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraJSN&layout=compact&theme=radical)
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-oliveira-santos-neto-249282209)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao_osneto@hotmail.com)
 
 ## 🇧🇷 Português
 
@@ -49,11 +47,11 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por cria
 
 ### 📈 Estatísticas do GitHub
 
-![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoOliveira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveira&layout=compact&theme=radical)
+![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliveiraJSN&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraJSN&layout=compact&theme=radical)
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-oliveira-santos-neto-249282209)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao_osneto@hotmail.com)
 
